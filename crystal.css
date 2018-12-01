@@ -1,0 +1,60 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Guess {
+    color: blue;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button {
+    display: block;
+    
+}
+#Wins {
+    color: blueviolet;
+    font-size: 30px;
+}
+#Losses {
+    color: red;
+    font-size: 30px;
+}
+#score {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#one {
+ 
+    
+    height: 200px;
+    width: 200px;
+    
+    
+   }
+#two {
+   
+    height: 200px;
+    width: 200px;
+    
+
+}
+#three {
+    
+    height: 200px;
+    width: 200px;
+    
+
+}
+#four {
+   
+    height: 200px;
+    width: 200px;
+    
+
+}
+body {
+    background-color: bisque;
+}
